@@ -1,1 +1,1 @@
-__version__ = $DISTELLI_RELVERSION
+__version__ = 'version'
