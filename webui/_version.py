@@ -1,1 +1,1 @@
-__version__ = $RelVersion
+__version__ = 'version'
