@@ -1,6 +1,6 @@
 keithapps/puppet_webapp:
   Env:
-    - PORT: $PORT
+    - PORT: "$PORT"
   PreBuild:
     - sh -x scripts/pre_build.sh
   Build:
